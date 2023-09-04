@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1693812883 source:c:\users\sch1561-it-060\desktop\test\summ.cpp
+	<iostream>
+	"path.h"
+
+1693816913 source:c:\users\sch1561-it-060\desktop\test\main.cpp
+	<iostream>
+	"easy.h"
+
+1693813575 c:\users\sch1561-it-060\desktop\test\path.h
+
+1693813086 source:c:\users\sch1561-it-060\desktop\test\min.cpp
+	<iostream>
+	"path.h"
+
+1693813575 source:c:\users\sch1561-it-060\desktop\test\umn.cpp
+	<iostream>
+	"path.h"
+
+1693814311 source:c:\users\sch1561-it-060\desktop\test\itc_name.cpp
+	<iostream>
+	"easy.h"
+
+1693816839 c:\users\sch1561-it-060\desktop\test\easy.h
+
+1693814522 source:c:\users\sch1561-it-060\desktop\test\itc_fio.cpp
+	<iostream>
+	"easy.h"
+
+1693814705 source:c:\users\sch1561-it-060\desktop\test\itc_abs.cpp
+	<iostream>
+	"easy.h"
+
+1693815072 source:c:\users\sch1561-it-060\desktop\test\itc_fabs.cpp
+	<iostream>
+	"easy.h"
+
+1693815949 source:c:\users\sch1561-it-060\desktop\test\itc_revnbr.cpp
+	<iostream>
+	"easy.h"
+
+1693816949 source:c:\users\sch1561-it-060\desktop\test\itc_6-11.cpp
+	<iostream>
+	"easy.h"
+
